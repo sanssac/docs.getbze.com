@@ -18,6 +18,7 @@
 * [Using ping.pub](staking/using-ping.pub/README.md)
   * [Collecting Staking Rewards](staking/using-ping.pub/collecting-staking-rewards.md)
 * [Using Cointrunk](staking/using-cointrunk.md)
+* [Liquidity Pools](staking/liquidity-pools.md)
 
 ## 🔔 Governance
 
