@@ -2,7 +2,9 @@
 
 ## How to Install Keplr
 
-Step 1 : Go to [https://www.keplr.app/download](https://www.keplr.app/download)
+Step 1 : Go to :arrow\_heading\_down:
+
+{% embed url="https://www.keplr.app/" %}
 
 <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 

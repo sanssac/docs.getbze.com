@@ -1,5 +1,4 @@
 ---
-description: BZE BRIEF
 cover: .gitbook/assets/Solid Negative@3x.jpg
 coverY: 0
 layout:

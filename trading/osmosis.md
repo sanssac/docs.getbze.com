@@ -7,6 +7,8 @@ Follow the steps below to easily trade your BZE :arrow\_heading\_down:
 {% tabs %}
 {% tab title="Step 1" %}
 Step 1: Go to : [https://app.osmosis.zone/](https://app.osmosis.zone/)
+
+{% embed url="https://app.osmosis.zone/" %}
 {% endtab %}
 
 {% tab title="Step 2" %}

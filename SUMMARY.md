@@ -42,6 +42,6 @@
 
 ## 💻 Important Links
 
-* [Social Media](important-links/social-media.md)
+* [Social Platforms](important-links/social-platforms.md)
 * [Explorers](important-links/explorers.md)
 * [Resources](important-links/resources.md)

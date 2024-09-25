@@ -4,7 +4,9 @@ icon: arrow-right-to-arc
 
 # Introduction
 
-Official link for the DApp : [https://app.getbze.com/](https://app.getbze.com/)
+Official link for the DApp : [https://app.getbze.com/](https://app.getbze.com/) &#x20;
+
+{% embed url="https://app.getbze.com/" %}
 
 DApps enhance our blockchain with several capabilities from the v7 release in an intuitive user interface.
 
