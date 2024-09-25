@@ -9,9 +9,11 @@
 * [😁 Cointrunk](wallets/cointrunk.md)
 * [📎 Vindulum App](wallets/vindulum-app.md)
 
-## 📈 Trading
+## 📈 TRADE/BUY BZE
 
-* [🛠️ Osmosis](trading/osmosis.md)
+* [🛠️ Osmosis](trade-buy-bze/osmosis.md)
+* [💱 BZE DAPP](trade-buy-bze/bze-dapp.md)
+* [Skip.go](trade-buy-bze/skip.go.md)
 
 ## 💰 Staking
 
