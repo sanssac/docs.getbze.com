@@ -36,6 +36,7 @@
   * [How to create staking Rewards](dapp/earn-module/how-to-create-staking-rewards.md)
 * [Burner Module](dapp/burner-module/README.md)
   * [How to Burn BZE ?](dapp/burner-module/how-to-burn-bze.md)
+  * [Burning Raffle](dapp/burner-module/burning-raffle.md)
 * [Blockchain Params](dapp/blockchain-params/README.md)
   * [BZE DAPP/Blockchain Fees Overview](dapp/blockchain-params/bze-dapp-blockchain-fees-overview.md)
 * [Trade Module](dapp/trade-module/README.md)
