@@ -4,6 +4,13 @@ icon: wpexplorer
 
 # Explorers
 
-1. [https://ping.pub/beezee   ](https://ping.pub/beezeehttps://atomscan.com/beezeehttps://explorer.getbze.com/https://explorer.sopko.net/beezee)
-2. [https://atomscan.com/beezee   ](https://ping.pub/beezeehttps://atomscan.com/beezeehttps://explorer.getbze.com/https://explorer.sopko.net/beezee)
-3. [https://explorer.getbze.com/   ](https://ping.pub/beezeehttps://atomscan.com/beezeehttps://explorer.getbze.com/https://explorer.sopko.net/beezee)
+MAINNET
+
+{% embed url="https://ping.pub/beezee" %}
+
+{% embed url="https://atomscan.com/beezee" %}
+
+{% embed url="https://explorer.getbze.com/" %}
+
+{% embed url="https://explorer.sopko.net/beezee" %}
+

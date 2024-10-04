@@ -9,9 +9,11 @@
 * [😁 Cointrunk](wallets/cointrunk.md)
 * [📎 Vindulum App](wallets/vindulum-app.md)
 
-## 📈 Trading
+## 📈 TRADE/BUY BZE
 
-* [🛠️ Osmosis](trading/osmosis.md)
+* [🛠️ Osmosis](trade-buy-bze/osmosis.md)
+* [💱 BZE DAPP](trade-buy-bze/bze-dapp.md)
+* [Skip.go](trade-buy-bze/skip.go.md)
 
 ## 💰 Staking
 
@@ -34,6 +36,7 @@
   * [How to create staking Rewards](dapp/earn-module/how-to-create-staking-rewards.md)
 * [Burner Module](dapp/burner-module/README.md)
   * [How to Burn BZE ?](dapp/burner-module/how-to-burn-bze.md)
+  * [Burning Raffle](dapp/burner-module/burning-raffle.md)
 * [Blockchain Params](dapp/blockchain-params/README.md)
   * [BZE DAPP/Blockchain Fees Overview](dapp/blockchain-params/bze-dapp-blockchain-fees-overview.md)
 * [Trade Module](dapp/trade-module/README.md)
@@ -42,6 +45,6 @@
 
 ## 💻 Important Links
 
-* [Social Media](important-links/social-media.md)
+* [Social Platforms](important-links/social-platforms.md)
 * [Explorers](important-links/explorers.md)
 * [Resources](important-links/resources.md)

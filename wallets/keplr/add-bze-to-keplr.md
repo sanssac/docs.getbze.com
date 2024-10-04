@@ -1,6 +1,8 @@
 # Add BZE to Keplr
 
-Step 1 : Go to [https://chains.keplr.app/](https://chains.keplr.app/)
+Step 1 : Go to :arrow\_heading\_down:
+
+{% embed url="https://chains.keplr.app/" %}
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p><a href="https://chains.keplr.app/">https://chains.keplr.app/</a></p></figcaption></figure>
 
