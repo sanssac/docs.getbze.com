@@ -21,16 +21,15 @@ layout:
 
 ## Overview
 
-> BeeZee (BZE) is a community-driven blockchain project that aims to be the foundation for decentralized applications (DApps) and empower users through transparent governance. Focused on building a decentralized ecosystem, BZE fosters innovation, collaboration, and growth.
+> BeeZee is a community-driven blockchain that serves as the foundation for decentralized applications (DApps), empowering users with transparent governance. Its goal is to enable a decentralized ecosystem that promotes innovation, collaboration, and growth.
 
-> Leveraging the eco-friendly Proof of Stake (PoS) consensus algorithm, BZE offers high Annual Percentage Rates (APR) for stakers and ensures a greener network. Its Cosmos SDK-based architecture enhances flexibility, allowing seamless integration with various modules and tools.
+> With the Proof of Stake (PoS) algorithm, BZE provides high APRs for stakers while maintaining a greener network. Built on the Cosmos SDK, its flexible architecture supports seamless integration with a variety of tools and modules.
 >
-> BZE enables the creation of community-governed DApps, promoting an open and collaborative environment that avoids the single point of failure in centralized systems. The flagship DApp, CoinTrunk, exemplifies this commitment, providing a trusted platform for discovering and sharing content.
+> BeeZee’s community-governed DApps foster an open, collaborative environment with no single points of failure. A major DApp, CoinTrunk, offers a trusted space for content discovery and sharing. Supported by a dedicated development team, BZE continuously evolves, ensuring every community member has a voice in shaping its future.
 
-With a dedicated development team, BZE continuously evolves to meet the needs of its community. Its decentralized governance structure ensures that every participant has a voice in shaping BZE's future, creating a truly inclusive and resilient ecosystem.
+**Discover BeeZee’s power and join the journey towards a transparent, decentralized future.**
 
-Discover the power of BeeZee and join the movement towards a decentralized future built on trust, transparency, and community collaboration.
+**Quick Start**\
+We’ve prepared guides to help you get set up with BeeZee quickly and easily.
 
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+You can click the button below to access how to set up various "wallets" that support BZE :arrow\_down\_small:
